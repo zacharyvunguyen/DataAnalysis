@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb" afterDir="false" />
+    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="add Zach_training">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/Day10/04-Stu_DataFrameShop/Unsolved/DataFrameShop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/04-Stu_DataFrameShop/Unsolved/DataFrameShop.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/Day10/04-Stu_DataFrameShop/Unsolved/testing_Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/04-Stu_DataFrameShop/Unsolved/testing_Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,24 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="60" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/TrainingGrounds.ipynb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -87,7 +74,61 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="Day10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="Day10" type="462c0819:PsiDirectoryNode" />
+              <item name="06-Stu_TrainingGrounds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="Day10" type="462c0819:PsiDirectoryNode" />
+              <item name="06-Stu_TrainingGrounds" type="462c0819:PsiDirectoryNode" />
+              <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="Day10" type="462c0819:PsiDirectoryNode" />
+              <item name="08-Stu_Hey_Arnold" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="Day10" type="462c0819:PsiDirectoryNode" />
+              <item name="08-Stu_Hey_Arnold" type="462c0819:PsiDirectoryNode" />
+              <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -95,7 +136,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,17 +165,37 @@
       <workItem from="1560609508707" duration="122000" />
       <workItem from="1560609942840" duration="604000" />
       <workItem from="1560610842766" duration="639000" />
-      <workItem from="1560611622870" duration="587000" />
+      <workItem from="1560611622870" duration="1716000" />
+      <workItem from="1560613601153" duration="32000" />
+      <workItem from="1560613967851" duration="269000" />
     </task>
+    <task id="LOCAL-00001" summary="add Zach_training">
+      <created>1560612304159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560612304159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2744000" />
+    <option name="totallyTimeSpent" value="4174000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1002" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21672772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22161172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -143,14 +204,14 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919955" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32919955" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.33821872" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32919955" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32919955" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -185,6 +246,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Zach_training" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Zach_training" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Daily/Day10/02-Stu_NetflixRemix/Unsolved/NetflixRemix.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
@@ -209,6 +274,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>

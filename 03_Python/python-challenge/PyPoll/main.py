@@ -2,8 +2,9 @@ import csv
 import time 
 import numpy as np
 import pandas as pd
+import os
 
-input_file = "/Users/zacharyvunguyen/Documents/GitHub/DataAnalytic/03_Python/Resources/election_data.csv"
+input_file = os.path.join("..","Resources","election_data.csv")
 start_time = time.time()
 
 csvframe = pd.read_csv(input_file)

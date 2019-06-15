@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="add Zach_training">
+    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/Zach_GoodReads.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/GoodReads.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/GoodReads.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,13 +33,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/Zach_GoodReads.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -58,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/Daily/Day10/04-Stu_DataFrameShop/Unsolved/testing_Data.ipynb" />
         <option value="$PROJECT_DIR$/Daily/Day10/06-Stu_TrainingGrounds/Unsolved/Zach_TrainingGround.ipynb" />
+        <option value="$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/Zach_GoodReads.ipynb" />
       </list>
     </option>
   </component>
@@ -98,14 +101,14 @@
               <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
               <item name="Daily" type="462c0819:PsiDirectoryNode" />
               <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="06-Stu_TrainingGrounds" type="462c0819:PsiDirectoryNode" />
+              <item name="10-Stu_GoodReads" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
               <item name="Daily" type="462c0819:PsiDirectoryNode" />
               <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="06-Stu_TrainingGrounds" type="462c0819:PsiDirectoryNode" />
+              <item name="10-Stu_GoodReads" type="462c0819:PsiDirectoryNode" />
               <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -113,15 +116,9 @@
               <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
               <item name="Daily" type="462c0819:PsiDirectoryNode" />
               <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="08-Stu_Hey_Arnold" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
-              <item name="Daily" type="462c0819:PsiDirectoryNode" />
-              <item name="Day10" type="462c0819:PsiDirectoryNode" />
-              <item name="08-Stu_Hey_Arnold" type="462c0819:PsiDirectoryNode" />
+              <item name="10-Stu_GoodReads" type="462c0819:PsiDirectoryNode" />
               <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,7 +164,8 @@
       <workItem from="1560610842766" duration="639000" />
       <workItem from="1560611622870" duration="1716000" />
       <workItem from="1560613601153" duration="32000" />
-      <workItem from="1560613967851" duration="269000" />
+      <workItem from="1560613967851" duration="513000" />
+      <workItem from="1560614493420" duration="1327000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -176,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560612304159</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hey_arnold">
+      <created>1560614392186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560614392186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4174000" />
+    <option name="totallyTimeSpent" value="5745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -195,7 +200,7 @@
     <frame x="0" y="23" width="1680" height="1002" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22161172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22405373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,7 +214,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32919955" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.33821872" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.33821872" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32919955" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32919955" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -248,7 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Zach_training" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Zach_training" />
+    <MESSAGE value="hey_arnold" />
+    <option name="LAST_COMMIT_MESSAGE" value="hey_arnold" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Daily/Day10/02-Stu_NetflixRemix/Unsolved/NetflixRemix.ipynb">
@@ -277,6 +283,15 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/Resources/books.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/GoodReads.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/Day10/10-Stu_GoodReads/Unsolved/Zach_GoodReads.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>

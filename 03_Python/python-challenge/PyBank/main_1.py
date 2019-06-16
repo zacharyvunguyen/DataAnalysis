@@ -3,6 +3,7 @@ import time
 import numpy as np
 import os
 input_file = os.path.join("..","Resources","budget_data.csv")
+
 start_time = time.time()
 
 data = csv.DictReader(open(input_file))
@@ -18,33 +19,26 @@ for row in data:
 date = np.asarray(date)
 pl = np.asarray(np.int_(pl))
 
+# array of differences
+pl1 = np.zeros(pl.size)
+pl1[:-1]=pl[1:]
+pl1[-1]=pl[-1]
+pl1= pl1-pl
+
+# get man/min values
+maxChange = np.max(pl1)
+maxChangeDate = date[np.where(pl1 == maxChange)[0]+1]
+minChange = np.min(pl1)
+minChangeDate = date[np.where(pl1 == minChange)[0]+1]
+
 print("Financial Analysis")
 print("-------------------------")
 print(f"Total Months: {date.size}")
 print(f"Total: ${np.sum(pl)}")
-
-minChange = float("inf")
-maxChange = float("-inf")
-sumChange = 0
-interval = date.size-1
-for i in range(interval):
-    eachChange = pl[i+1] - pl[i]
-    if (minChange > eachChange):
-        minChange = eachChange
-        minChangeDate = date[i+1]
-    if (maxChange < eachChange):
-        maxChange = eachChange
-        maxChangeDate = date[i+1]
-
-    sumChange = sumChange+eachChange
-
-
-print(f"Average  Change: ${sumChange/interval}")
+print(f"Average  Change: ${np.sum(pl1)/(pl1.size-1)}")
 print(f"Greatest Increase in Profits: ${maxChangeDate} (${maxChange})")
 print(f"Greatest Decrease in Profits: ${minChangeDate} (${minChange})")
 
-
 print("csv.DictReader took %s seconds" % (time.time() - start_time))
-
 
 

@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/1_csv_append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/2_csv_assign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/3_pandas_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/4_pandas_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/Resources/budget_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Python/python-challenge/Resources/budget_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/Resources/election_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/03_Python/python-challenge/Resources/election_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily/Day10/11-Stu_GoodReadsSummary/Zach_11_GoodReads Summary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day10/11-Stu_GoodReadsSummary/Zach_11_GoodReads Summary.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily/Day11/02-Stu_GoodMovies/Unsolved/Zach_goodMovies.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/Day11/02-Stu_GoodMovies/Unsolved/Zach_goodMovies.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,23 +31,7 @@
     <favorites_list name="DataAnalytic" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/Day10/11-Stu_GoodReadsSummary/Zach_11_GoodReads Summary.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/Day11/02-Stu_GoodMovies/Unsolved/goodMovies.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Daily/Day11/02-Stu_GoodMovies/Unsolved/Zach_goodMovies.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,6 +55,8 @@
         <option value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/2_csv_assign.py" />
         <option value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/3_pandas_1.py" />
         <option value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/4_pandas_2.py" />
+        <option value="$PROJECT_DIR$/03_Python/python-challenge/PyBank/test.py" />
+        <option value="$PROJECT_DIR$/03_Python/python-challenge/PyBank/test2.py" />
       </list>
     </option>
   </component>
@@ -116,14 +98,14 @@
               <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
               <item name="03_Python" type="462c0819:PsiDirectoryNode" />
               <item name="python-challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="PyPoll" type="462c0819:PsiDirectoryNode" />
+              <item name="PyBank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
               <item name="03_Python" type="462c0819:PsiDirectoryNode" />
               <item name="python-challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="PyPoll" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,13 +116,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
       <recent name="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -159,83 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4_pandas_2">
-    <configuration name="1_csv_append" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataAnalytic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/1_csv_append.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_csv_assign" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataAnalytic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/2_csv_assign.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3_pandas_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataAnalytic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/3_pandas_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4_pandas_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataAnalytic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/4_pandas_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DataAnalytic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,13 +165,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataAnalytic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -273,7 +177,89 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataAnalytic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataAnalytic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank/main_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataAnalytic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataAnalytic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -282,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4_pandas_2" />
-        <item itemvalue="Python.3_pandas_1" />
-        <item itemvalue="Python.2_csv_assign" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.1_csv_append" />
+        <item itemvalue="Python.main_1" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +296,7 @@
       <workItem from="1560613967851" duration="513000" />
       <workItem from="1560614493420" duration="1327000" />
       <workItem from="1560616185543" duration="3272000" />
-      <workItem from="1560619878632" duration="1180000" />
+      <workItem from="1560619878632" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -347,11 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560620104806</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding different solution for PyPoll">
+      <created>1560621382389</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560621382389</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10197000" />
+    <option name="totallyTimeSpent" value="10875000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,9 +357,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1002" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22649573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22649573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -382,13 +374,13 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Jupyter" order="11" weight="0.33821872" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32919955" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32919955" />
+      <window_info anchor="bottom" id="Python Console" order="13" visible="true" weight="0.32919955" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.497479" weight="0.3986569" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49915966" weight="0.32967034" />
-      <window_info anchor="right" x="0" y="0" width="370" height="802" id="Documentation" order="5" sideWeight="0.50084037" side_tool="true" visible="true" weight="0.12210012" />
+      <window_info anchor="right" x="0" y="0" width="370" height="802" id="Documentation" order="5" sideWeight="0.50084037" side_tool="true" weight="0.12210012" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
@@ -423,7 +415,8 @@
     <MESSAGE value="hey_arnold" />
     <MESSAGE value="adding good read summary solution" />
     <MESSAGE value="Adding GoodMovies solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding GoodMovies solution" />
+    <MESSAGE value="Adding different solution for PyPoll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding different solution for PyPoll" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalytic$main.coverage" NAME="main Coverage Results" MODIFIED="1560621190592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
@@ -466,12 +459,6 @@
     <entry file="file://$PROJECT_DIR$/Daily/Day10/08-Stu_Hey_Arnold/Unsolved/hey_arnold.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/Day10/11-Stu_GoodReadsSummary/Zach_11_GoodReads Summary.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/Day11/02-Stu_GoodMovies/Unsolved/goodMovies.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/2_csv_assign.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -479,13 +466,6 @@
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/1_csv_append.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -521,6 +501,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily/Day11/02-Stu_GoodMovies/Unsolved/Zach_goodMovies.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/Day11/02-Stu_GoodMovies/Unsolved/goodMovies.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/Day10/11-Stu_GoodReadsSummary/Zach_11_GoodReads Summary.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/1_csv_append.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

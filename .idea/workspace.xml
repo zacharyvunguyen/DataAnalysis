@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/Z_Heroes.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/1_csv_append.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/2_csv_assign.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/3_pandas_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/4_pandas_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,18 +44,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="276">
+              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/PyPoll.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -346,7 +335,7 @@
       <workItem from="1560908034782" duration="3249000" />
       <workItem from="1560954562131" duration="638000" />
       <workItem from="1561037708850" duration="2562000" />
-      <workItem from="1561127559705" duration="5974000" />
+      <workItem from="1561127559705" duration="6169000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -439,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561211539411</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="finisn">
+      <created>1561215290362</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561215290362</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32260000" />
+    <option name="totallyTimeSpent" value="32455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -522,7 +518,8 @@
     <MESSAGE value="Finish Cryptocurrency challenge" />
     <MESSAGE value="added 'exporting to txt' code" />
     <MESSAGE value="added 'exporting to txt' code for main_1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 'exporting to txt' code for main_1.py" />
+    <MESSAGE value="finisn" />
+    <option name="LAST_COMMIT_MESSAGE" value="finisn" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalytic$main.coverage" NAME="main Coverage Results" MODIFIED="1560621190592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
@@ -765,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        <state relative-caret-position="276">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

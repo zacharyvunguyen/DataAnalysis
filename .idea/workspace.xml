@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/Z_Heroes.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +31,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_Pandas/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Python/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <first_editor relative-caret-position="352">
+                <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/PyBank.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/main_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-24">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +116,7 @@
         <option value="$PROJECT_DIR$/Daily/Day11/05-Evr_PandasRecap/Unsolved/Zach_Recap.ipynb" />
         <option value="$PROJECT_DIR$/Daily/Day11/07-Par_Pokemon/Unsolved/Zach Pokemon.ipynb" />
         <option value="$PROJECT_DIR$/Daily/Day11/09-Stu_SearchForTheWorst/Unsolved/Zach_SearchForTheWorst.ipynb" />
+        <option value="$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py" />
       </list>
     </option>
   </component>
@@ -88,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,12 +142,26 @@
             <path>
               <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
-              <item name="04_Pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="python-challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="python-challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="PyBank" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DataAnalytic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,9 +247,6 @@
       <module name="DataAnalytic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -276,8 +330,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main_1" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.test" />
@@ -309,7 +363,9 @@
       <workItem from="1560827257487" duration="2673000" />
       <workItem from="1560901624794" duration="5774000" />
       <workItem from="1560908034782" duration="3249000" />
-      <workItem from="1560954562131" duration="169000" />
+      <workItem from="1560954562131" duration="638000" />
+      <workItem from="1561037708850" duration="2562000" />
+      <workItem from="1561127559705" duration="3438000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -381,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560911123482</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finish Cryptocurrency challenge">
+      <created>1560967383914</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560967383914</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23255000" />
+    <option name="totallyTimeSpent" value="29724000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,7 +463,7 @@
     <frame x="0" y="23" width="1680" height="1002" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.16117217" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.16483517" />
       <window_info id="Structure" order="1" sideWeight="0.50076103" side_tool="true" weight="0.15934066" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.15934066" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -414,13 +477,13 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3291536" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Jupyter" order="11" sideWeight="0.4993895" visible="true" weight="0.31347963" />
+      <window_info anchor="bottom" id="Jupyter" order="11" sideWeight="0.4993895" weight="0.21195039" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32919955" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3291536" />
+      <window_info anchor="bottom" id="Python Console" order="13" visible="true" weight="0.32807216" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.7869222" weight="0.490232" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.7869222" weight="0.30586082" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49915966" weight="0.32967034" />
       <window_info anchor="right" x="0" y="0" width="370" height="802" id="Documentation" order="5" sideWeight="0.21307778" side_tool="true" weight="0.490232" />
     </layout>
@@ -544,24 +607,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/test.py" />
     <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/test2.py" />
-    <entry file="file://$PROJECT_DIR$/03_Python/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/main_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily/Day10/11-Stu_GoodReadsSummary/Zach_11_GoodReads Summary.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -600,16 +645,6 @@
     <entry file="file://$PROJECT_DIR$/Daily/Day11/07-Par_Pokemon/Unsolved/Zach Pokemon.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily/Day11/09-Stu_SearchForTheWorst/Unsolved/SearchForTheWorst.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -640,13 +675,65 @@
     <entry file="file://$PROJECT_DIR$/Daily/Day12/Cryptocurrency/Unsolved/Zach_Crypto.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/hop.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/Z_Heroes.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/04_Pandas/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <first_editor relative-caret-position="-54">
+            <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Pandas/PyCitySchools/PyCitySchools_starter.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/PyBank.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/main_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyPoll/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Python/python-challenge/PyBank/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

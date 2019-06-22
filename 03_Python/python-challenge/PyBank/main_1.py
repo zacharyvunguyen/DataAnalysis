@@ -41,4 +41,8 @@ print(f"Greatest Decrease in Profits: ${minChangeDate} (${minChange})")
 
 print("csv.DictReader took %s seconds" % (time.time() - start_time))
 
+text = ((f"Financial Analysis \n-----------------------------\nTotal Months: {date.size} \nTotal: ${np.sum(pl)}  \nAverage  Change: ${np.sum(pl1)/(pl1.size-1)} \nGreatest Increase in Profits: ${maxChangeDate} (${maxChange}) \nGreatest Decrease in Profits: ${minChangeDate} (${minChange})" ))
+saveFile = open('PyBank_main_1.txt', 'w')
+saveFile.write(text)
+saveFile.close()
 

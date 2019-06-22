@@ -198,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main_1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DataAnalytic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,9 +266,6 @@
       <module name="DataAnalytic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Python/python-challenge/PyBank" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -330,9 +327,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_1" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main_1" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.test" />
       </list>

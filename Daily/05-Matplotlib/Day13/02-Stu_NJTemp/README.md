@@ -15,4 +15,3 @@
 * Plot the Celsius points.
 
 * Lastly, create a third plot with both the Fahrenheit and Celsius points.
-

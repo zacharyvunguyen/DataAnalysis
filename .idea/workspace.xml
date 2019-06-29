@@ -4,27 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/02-Stu_SpaceX/Unsolved/Stu_SpaceX.ipynb" description="#%%" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="RESUBMIT FOR PANDAS HOMEWORK(HEROESOFPYMOLI)">
-      <change afterPath="$PROJECT_DIR$/04_Pandas/PyCitySchools/Zach_PyCitiSchools.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day14/06-Stu_MilesPerGallon/Zach_miles.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Zach.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/zach2.ipynb" afterDir="false" />
+    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/07-Stu_Explore_OMDb_API/ZACH_07.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/hop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/hop.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/01-Ins_BasicLineGraphs/Solved/exponential_chart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/01-Ins_BasicLineGraphs/Solved/exponential_chart.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/01-Ins_BasicLineGraphs/Solved/sin_cos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/01-Ins_BasicLineGraphs/Solved/sin_cos.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/02-Stu_NJTemp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/02-Stu_NJTemp/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/02-Stu_NJTemp/Unsolved/nj_temp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/02-Stu_NJTemp/Unsolved/nj_temp.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/05-Ins_Aesthetics/Solved/aesthetics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/05-Ins_Aesthetics/Solved/aesthetics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/07-Ins_BarCharts/Solved/bar_chart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/07-Ins_BarCharts/Solved/bar_chart.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/09-Ins_PieCharts/Solved/pie_chart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/09-Ins_PieCharts/Solved/pie_chart.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/11-Ins_ScatterPlots/Solved/scatter_plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/11-Ins_ScatterPlots/Solved/scatter_plot.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/13-Stu_AvgRain/Images/Zach_avg_state_rain.png" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/13-Stu_AvgRain/Images/Zach_avg_state_rain.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/13-Stu_AvgRain/Zach_avg_state_rain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/13-Stu_AvgRain/Zach_avg_state_rain.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Day14/01-Stu_PlotsReview/Unsolved/plot_drills.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Day14/01-Stu_PlotsReview/Unsolved/plot_drills.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/02-Stu_SpaceX/Unsolved/Stu_SpaceX.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/02-Stu_SpaceX/Unsolved/Stu_SpaceX.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/04-Stu_FarFarAway/Unsolved/Stu_FarFarAway.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/04-Stu_FarFarAway/Unsolved/Stu_FarFarAway.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Par_NumberFacts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Par_NumberFacts.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/06-Ins_OMDbRequests/Solved/Ins_OMDbRequests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/06-Ins_OMDbRequests/Solved/Ins_OMDbRequests.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,62 +35,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/01-Ins_RequestsIntro/Solved/Ins_Requests_Demo.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/02-Stu_SpaceX/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/02-Stu_SpaceX/Unsolved/Stu_SpaceX.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/04-Stu_FarFarAway/Unsolved/Stu_FarFarAway.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Par_NumberFacts.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Zach.ipynb">
+        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/06-Ins_OMDbRequests/Solved/Ins_OMDbRequests.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/zach2.ipynb">
+        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/07-Stu_Explore_OMDb_API/ZACH_07.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/README.md">
+        <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/07-Stu_Explore_OMDb_API/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="52" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_Pandas/PyCitySchools/Zach_PyCitiSchools.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
@@ -204,16 +148,7 @@
               <item name="Daily" type="462c0819:PsiDirectoryNode" />
               <item name="06-Python-APIs" type="462c0819:PsiDirectoryNode" />
               <item name="Day16" type="462c0819:PsiDirectoryNode" />
-              <item name="05-Par_NumberFacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataAnalytic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataAnalytic" type="462c0819:PsiDirectoryNode" />
-              <item name="Daily" type="462c0819:PsiDirectoryNode" />
-              <item name="06-Python-APIs" type="462c0819:PsiDirectoryNode" />
-              <item name="Day16" type="462c0819:PsiDirectoryNode" />
-              <item name="05-Par_NumberFacts" type="462c0819:PsiDirectoryNode" />
-              <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
+              <item name="07-Stu_Explore_OMDb_API" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/13-Stu_AvgRain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/07-Stu_Explore_OMDb_API" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -234,17 +169,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Daily/Day12/Cryptocurrency/Unsolved" />
-      <recent name="$PROJECT_DIR$/Daily/Day12/Cryptocurrency/Unsolved/Resources" />
-      <recent name="$PROJECT_DIR$/03_Python/python-challenge" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Daily/06-Python-APIs/Day16/07-Stu_Explore_OMDb_API" />
       <recent name="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/13-Stu_AvgRain" />
       <recent name="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/12-Stu_ScatterPy" />
       <recent name="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/10-Stu_PyPies" />
       <recent name="$PROJECT_DIR$/Daily/05-Matplotlib/Day13/08-Stu_PyBars" />
-      <recent name="$PROJECT_DIR$/03_Python/python-challenge/PyBank_ReSubmit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Daily/Day12/Cryptocurrency/Unsolved" />
+      <recent name="$PROJECT_DIR$/Daily/Day12/Cryptocurrency/Unsolved/Resources" />
+      <recent name="$PROJECT_DIR$/03_Python/python-challenge" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -435,7 +370,7 @@
       <workItem from="1561511793837" duration="10260000" />
       <workItem from="1561691328957" duration="3001000" />
       <workItem from="1561816522525" duration="13000" />
-      <workItem from="1561816546463" duration="5625000" />
+      <workItem from="1561816546463" duration="6386000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -612,11 +547,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561818514130</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="ADD MORE FILES">
+      <created>1561822644540</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1561822644540</updated>
+    </task>
+    <task id="LOCAL-00027" summary="MORE API">
+      <created>1561822677384</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1561822677384</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71956000" />
+    <option name="totallyTimeSpent" value="72717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -706,7 +655,9 @@
     <MESSAGE value="review some plots" />
     <MESSAGE value="ADDING FILES" />
     <MESSAGE value="hello API" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello API" />
+    <MESSAGE value="ADD MORE FILES" />
+    <MESSAGE value="MORE API" />
+    <option name="LAST_COMMIT_MESSAGE" value="MORE API" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -728,15 +679,6 @@
     <SUITE FILE_PATH="coverage/DataAnalytic$main.coverage" NAME="main Coverage Results" MODIFIED="1560621190592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Python/python-challenge/PyPoll" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daily/05-Matplotlib/Day13/11-Ins_ScatterPlots/Solved/scatter_plot.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/05-Matplotlib/Day13/13-Stu_AvgRain/Images/Zach_avg_state_rain.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/05-Matplotlib/Day13/12-Stu_ScatterPy/Images/IceCreamSales.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily/05-Matplotlib/Day13/09-Ins_PieCharts/Solved/pie_chart.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -911,7 +853,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Pandas/PyCitySchools/Zach_PyCitiSchools.ipynb">
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/03-Ins_ManipulatingResponses/Solved/Ins_Manipulating_JSON.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/04-Stu_FarFarAway/Unsolved/Stu_FarFarAway.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Par_NumberFacts.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/01-Ins_RequestsIntro/Solved/Ins_Requests_Demo.ipynb">
@@ -927,7 +875,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/03-Ins_ManipulatingResponses/Solved/Ins_Manipulating_JSON.ipynb">
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/02-Stu_SpaceX/Unsolved/Stu_SpaceX.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_Pandas/PyCitySchools/Zach_PyCitiSchools.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/README.md">
@@ -940,19 +891,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/02-Stu_SpaceX/Unsolved/Stu_SpaceX.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/04-Stu_FarFarAway/Unsolved/Stu_FarFarAway.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Par_NumberFacts.ipynb">
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/zach2.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/Zach.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/05-Par_NumberFacts/Unsolved/zach2.ipynb">
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/07-Stu_Explore_OMDb_API/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/06-Ins_OMDbRequests/Solved/Ins_OMDbRequests.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily/06-Python-APIs/Day16/07-Stu_Explore_OMDb_API/ZACH_07.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>

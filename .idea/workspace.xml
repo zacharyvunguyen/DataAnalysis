@@ -15,10 +15,10 @@
       <change afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/Z_Heroes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/Z_Heroes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/hop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04_Pandas/HeroesOfPymoli/hop.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Homework/Pyber/data/Zach_Pyber_Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Homework/Pyber/data/Zach_Pyber_Solution.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Daily/05-Matplotlib/Homework/Pyber/pyber_starter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/05-Matplotlib/Homework/Pyber/pyber_starter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/06-Python-APIs/Homework/starter_code/WeatherPy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Homework/starter_code/WeatherPy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily/06-Python-APIs/Homework/starter_code/city_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Daily/06-Python-APIs/Homework/starter_code/city_data.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Daily/05-Matplotlib/Homework/Pyber" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -307,6 +307,7 @@
       <workItem from="1562874625931" duration="1667000" />
       <workItem from="1562887334273" duration="1667000" />
       <workItem from="1562891562478" duration="54000" />
+      <workItem from="1563812599896" duration="513000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>

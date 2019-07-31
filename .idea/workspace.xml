@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DataAnalytic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataAnalytic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/11-Stu_Surfer_SQL/Unsolved/Surfer.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/01-Ins_BasicSQL_Connection/Solved/Read_Census_Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/01-Ins_BasicSQL_Connection/Solved/Read_Census_Data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/02-Stu_IceCreamStore/Unsolved/IceCreamConnector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/02-Stu_IceCreamStore/Unsolved/IceCreamConnector.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/03-Ins_ReadSQL/Solved/SQLIntoPandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/03-Ins_ReadSQL/Solved/SQLIntoPandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/04-Stu_ReadAllTheSQLs/Unsolved/Read_All_The_SQLs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/04-Stu_ReadAllTheSQLs/Unsolved/Read_All_The_SQLs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/06-Ins_Classes/Solved/Dog.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/06-Ins_Classes/Solved/Dog.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/07-Stu_Surfer_Class/Unsolved/Surfer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/07-Stu_Surfer_Class/Unsolved/Surfer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/09-Stu_Surfer_Class_Extended/Unsolved/Surfer_Extended.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/09-Stu_Surfer_Class_Extended/Unsolved/Surfer_Extended.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/Alchemy_Annotated.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/Alchemy_Annotated.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/pets.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/pets.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/11-Stu_Surfer_SQL/Unsolved/Surfer_SQL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/11-Stu_Surfer_SQL/Unsolved/Surfer_SQL.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +32,30 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Surfer" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Surfer" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Surfer" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Surfer" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="surfboards: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FavoritesManager">
@@ -38,11 +68,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>'2013 Wins']+final['2014 Wins']+final['2015 Wins']+final['2016 Wins']</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -51,6 +76,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -238,7 +264,16 @@
     <option name="allServicesViewState">
       <serviceView>
         <treeState>
-          <expand />
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@34d9d65f" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@10cc1b1a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
           <select />
         </treeState>
       </serviceView>
@@ -307,7 +342,7 @@
       <workItem from="1562887334273" duration="1667000" />
       <workItem from="1562891562478" duration="54000" />
       <workItem from="1563812599896" duration="513000" />
-      <workItem from="1564529715947" duration="826000" />
+      <workItem from="1564529715947" duration="8874000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -519,7 +554,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564529748083</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="New day">
+      <created>1564530747961</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1564530747961</updated>
+    </task>
+    <task id="LOCAL-00032" summary="icream done">
+      <created>1564530768239</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1564530768239</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView">
@@ -548,8 +597,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hey_arnold" />
-    <MESSAGE value="adding good read summary solution" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding GoodMovies solution" />
     <MESSAGE value="Adding different solution for PyPoll" />
     <MESSAGE value="Finish python challenge" />
@@ -573,7 +621,9 @@
     <MESSAGE value="solution for 07_OMDB" />
     <MESSAGE value="solution for 08_OMDB" />
     <MESSAGE value="new session" />
-    <option name="LAST_COMMIT_MESSAGE" value="new session" />
+    <MESSAGE value="New day" />
+    <MESSAGE value="icream done" />
+    <option name="LAST_COMMIT_MESSAGE" value="icream done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

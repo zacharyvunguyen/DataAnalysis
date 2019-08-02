@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/11-Stu_Surfer_SQL/Unsolved/Surfer.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="Ready for the nexg day">
+      <change afterPath="$PROJECT_DIR$/.idea/datalore.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/02-Stu_IceCreamStore/Unsolved/IceCreamConnector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/02-Stu_IceCreamStore/Unsolved/IceCreamConnector.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/03-Ins_ReadSQL/Solved/SQLIntoPandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/03-Ins_ReadSQL/Solved/SQLIntoPandas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/04-Stu_ReadAllTheSQLs/Unsolved/Read_All_The_SQLs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/04-Stu_ReadAllTheSQLs/Unsolved/Read_All_The_SQLs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/06-Ins_Classes/Solved/Dog.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/06-Ins_Classes/Solved/Dog.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/07-Stu_Surfer_Class/Unsolved/Surfer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/07-Stu_Surfer_Class/Unsolved/Surfer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/09-Stu_Surfer_Class_Extended/Unsolved/Surfer_Extended.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/09-Stu_Surfer_Class_Extended/Unsolved/Surfer_Extended.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/Alchemy_Annotated.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/Alchemy_Annotated.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/pets.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/10-Ins_SQL_Alchemy_Revisited/Solved/pets.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/11-Stu_Surfer_SQL/Unsolved/Surfer_SQL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10-Advanced-Data-Storage-And-Retrieval/Day26/Activities/11-Stu_Surfer_SQL/Unsolved/Surfer_SQL.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +37,6 @@
         <item name="Surfer" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="Surfer" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
-        <item name="surfboards: table" type="3d80ac25:SqliteImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -89,7 +72,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -273,6 +256,16 @@
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@10cc1b1a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@10cc1b1a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@225ab7e7" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@10cc1b1a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@39242459" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
           </expand>
           <select />
         </treeState>
@@ -342,7 +335,8 @@
       <workItem from="1562887334273" duration="1667000" />
       <workItem from="1562891562478" duration="54000" />
       <workItem from="1563812599896" duration="513000" />
-      <workItem from="1564529715947" duration="8874000" />
+      <workItem from="1564529715947" duration="9860000" />
+      <workItem from="1564586316877" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -568,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564530768239</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Ready for the nexg day">
+      <created>1564538998022</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1564538998022</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -598,7 +599,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adding GoodMovies solution" />
     <MESSAGE value="Adding different solution for PyPoll" />
     <MESSAGE value="Finish python challenge" />
     <MESSAGE value="CHECKED" />
@@ -623,7 +623,8 @@
     <MESSAGE value="new session" />
     <MESSAGE value="New day" />
     <MESSAGE value="icream done" />
-    <option name="LAST_COMMIT_MESSAGE" value="icream done" />
+    <MESSAGE value="Ready for the nexg day" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready for the nexg day" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

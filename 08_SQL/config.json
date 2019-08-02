@@ -1,0 +1,16 @@
+{
+    "postgres":{
+        "host":"localhost",
+        "user":"pgAdmin",
+        "password":"92ZacharY",
+        "db":"09_SQL_HW"
+    },
+    "other":{
+        "preprocessing_queue":[
+            "preprocessing.scale_and_center",
+            "preprocessing.dot_reduction",
+            "preprocessing.connect_lines"
+            ],
+        "use_anonymous":true
+    }
+}

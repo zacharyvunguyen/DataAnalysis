@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="Ready for the nexg day">
-      <change afterPath="$PROJECT_DIR$/.idea/datalore.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0da20b3f-0905-455e-a2a0-0aeb9f7c7f09" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,6 +334,7 @@
       <workItem from="1563812599896" duration="513000" />
       <workItem from="1564529715947" duration="9860000" />
       <workItem from="1564586316877" duration="3000" />
+      <workItem from="1564704646186" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="add Zach_training">
       <created>1560612304159</created>
@@ -569,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564538998022</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add sql hw">
+      <created>1564704676868</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1564704676868</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView">
@@ -599,7 +604,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adding different solution for PyPoll" />
     <MESSAGE value="Finish python challenge" />
     <MESSAGE value="CHECKED" />
     <MESSAGE value="data manipulation" />
@@ -624,7 +628,8 @@
     <MESSAGE value="New day" />
     <MESSAGE value="icream done" />
     <MESSAGE value="Ready for the nexg day" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ready for the nexg day" />
+    <MESSAGE value="add sql hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sql hw" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
